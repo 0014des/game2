@@ -26,3 +26,15 @@ button {
 .shop {
   margin-top: 30px;
 }
+.big-button {
+  font-size: 32px;
+  padding: 30px 60px;
+  background-color: #ffe4b5;
+  border-radius: 15px;
+  border: 2px solid #d2691e;
+  transition: transform 0.1s ease;
+}
+
+.big-button:hover {
+  transform: scale(1.05);
+}
