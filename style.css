@@ -17,9 +17,9 @@ body {
 }
 
 button {
-  font-size: 18px;
-  padding: 10px 20px;
-  margin: 10px;
+  font-size: 180px;
+  padding: 100px 200px;
+  margin: 100px;
   cursor: pointer;
 }
 
@@ -35,6 +35,3 @@ button {
   transition: transform 0.1s ease;
 }
 
-.big-button:hover {
-  transform: scale(1.05);
-}
